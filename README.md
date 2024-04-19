@@ -2,6 +2,8 @@
 # 1 Network Modeling
 # 1.1 Pairwise Network
 **[1]**
+# 1.2 Higher-order Network
+**[2]** Han Z, Liu L, Wang X, et al. "**Probabilistic activity driven model of temporal simplicial networks and its application on higher-order dynamics[J]**". Chaos: An Interdisciplinary Journal of Nonlinear Science, 2024, 34(2). [[html]](https://pubs.aip.org/aip/cha/article/34/2/023137/3267337)
 
 # 2 Contagion Dynamics
 # 2.1 Dynamics on Metapopulations
