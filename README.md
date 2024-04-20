@@ -19,3 +19,7 @@
 **[1]** Pandey S, Cao Y, Dong Y, et al. "**Generation and influence of eccentric ideas on social networks[J]**". Scientific reports, 2023, 13(1): 20433. [[html]](https://www.nature.com/articles/s41598-023-47823-0)
 
 **[2]** Goldenberg A, Abruzzo J M, Huang Z, et al. "**Homophily and acrophily as drivers of political segregation[J]**". Nature Human Behaviour, 2023, 7(2): 219-230. [[html]](https://www.nature.com/articles/s41562-022-01474-9)
+
+**[3]** Zimmerman F, Garbulsky G, Ariely D, et al. "**Political coherence and certainty as drivers of interpersonal liking over and above similarity[J]**". Science advances, 2022, 8(6): eabk1909. [[html]](https://www.science.org/doi/full/10.1126/sciadv.abk1909)
+
+**[4]** Zimmerman F, Pedraza L, Navajas J, et al. "**Attraction by ingroup coherence drives the emergence of ideological sorting[J]**". arXiv preprint arXiv:2304.12559, 2023. [[html]](https://arxiv.org/abs/2304.12559)
