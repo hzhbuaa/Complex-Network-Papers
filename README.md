@@ -23,3 +23,11 @@
 **[3]** Zimmerman F, Garbulsky G, Ariely D, et al. "**Political coherence and certainty as drivers of interpersonal liking over and above similarity[J]**". Science advances, 2022, 8(6): eabk1909. [[html]](https://www.science.org/doi/full/10.1126/sciadv.abk1909)
 
 **[4]** Zimmerman F, Pedraza L, Navajas J, et al. "**Attraction by ingroup coherence drives the emergence of ideological sorting[J]**". arXiv preprint arXiv:2304.12559, 2023. [[html]](https://arxiv.org/abs/2304.12559)
+
+# 4 Collective Intelligence
+
+# 4.1 Wisdom of Crowds
+
+**[1]** Barrera-Lemarchand F, Balenzuela P, Bahrami B, et al. "**The wisdom of extremized crowds: Promoting erroneous divergent opinions increases collective accuracy[J]**". 2023. [[html]](https://osf.io/preprints/psyarxiv/wvfm3)
+
+
