@@ -24,6 +24,12 @@
 
 **[4]** Zimmerman F, Pedraza L, Navajas J, et al. "**Attraction by ingroup coherence drives the emergence of ideological sorting[J]**". arXiv preprint arXiv:2304.12559, 2023. [[html]](https://arxiv.org/abs/2304.12559)
 
+# 3.2 Modeling
+
+**[1]** Chica M, Perc M, Santos F C. "**Success-driven opinion formation determines social tensions[J]**". iScience, 2024. [[pdf]](https://www.cell.com/iscience/pdf/S2589-0042(24)00475-9.pdf)
+
+**[2]** Liu L, Wang X, Chen X, et al. "**Modeling confirmation bias and peer pressure in opinion dynamics[J]**". Frontiers in Physics, 2021, 9: 649852. [[html]](https://www.frontiersin.org/articles/10.3389/fphy.2021.649852/full)
+
 # 4 Collective Intelligence
 
 # 4.1 Wisdom of Crowds
