@@ -12,6 +12,10 @@
 
 **[1]** Soriano-Paños D, Lotero L, Arenas A, et al. "**Spreading processes in multiplex metapopulations containing different mobility networks[J]**". Physical Review X, 2018, 8(3): 031039. [[pdf]](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.8.031039)
 
+# 2.2 Empirical Study
+
+**[1]** Del Vicario M, Bessi A, Zollo F, et al. "**The spreading of misinformation online[J]**". Proceedings of the national academy of Sciences, 2016, 113(3): 554-559. [[html]](https://www.pnas.org/doi/abs/10.1073/pnas.1517441113)
+
 # 3 Opinion Dynamics
 
 # 3.1 Empirical Study
