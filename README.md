@@ -28,11 +28,17 @@
 
 **[4]** Zimmerman F, Pedraza L, Navajas J, et al. "**Attraction by ingroup coherence drives the emergence of ideological sorting[J]**". arXiv preprint arXiv:2304.12559, 2023. [[html]](https://arxiv.org/abs/2304.12559)
 
-# 3.2 Modeling
+# 3.2 Pairwise Model
 
 **[1]** Chica M, Perc M, Santos F C. "**Success-driven opinion formation determines social tensions[J]**". iScience, 2024. [[pdf]](https://www.cell.com/iscience/pdf/S2589-0042(24)00475-9.pdf)
 
 **[2]** Liu L, Wang X, Chen X, et al. "**Modeling confirmation bias and peer pressure in opinion dynamics[J]**". Frontiers in Physics, 2021, 9: 649852. [[html]](https://www.frontiersin.org/articles/10.3389/fphy.2021.649852/full)
+
+# 3.3 Higher-order Model
+
+**[1]** Neuhäuser L, Mellor A, Lambiotte R. "**Multibody interactions and nonlinear consensus dynamics on networked systems[J]**". Physical Review E, 2020, 101(3): 032310. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032310)
+
+**[2]** Neuhäuser L, Lambiotte R, Schaub M T. "**Consensus dynamics on temporal hypergraphs[J]**". Physical Review E, 2021, 104(6): 064305. [[pdf]](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.104.064305)
 
 # 4 Collective Intelligence
 
