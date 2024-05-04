@@ -36,6 +36,8 @@
 
 **[3]** Baumann F, Lorenz-Spreen P, Sokolov I M, et al. "**Modeling echo chambers and polarization dynamics in social networks[J]**". Physical Review Letters, 2020, 124(4): 048301. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.048301)
 
+**[4]** Gajewski Ł G, Sienkiewicz J, Hołyst J A. "**Transitions between polarization and radicalization in a temporal bilayer echo-chamber model[J]**". Physical Review E, 2022, 105(2): 024125. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.024125)
+
 # 3.3 Higher-order Model
 
 **[1]** Neuhäuser L, Mellor A, Lambiotte R. "**Multibody interactions and nonlinear consensus dynamics on networked systems[J]**". Physical Review E, 2020, 101(3): 032310. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032310)
