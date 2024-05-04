@@ -40,6 +40,8 @@
 
 **[4]** Gajewski Ł G, Sienkiewicz J, Hołyst J A. "**Transitions between polarization and radicalization in a temporal bilayer echo-chamber model[J]**". Physical Review E, 2022, 105(2): 024125. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.024125)
 
+**[5]** Santos F P, Lelkes Y, Levin S A. "**Link recommendation algorithms and dynamics of polarization in online social networks[J]**". Proceedings of the National Academy of Sciences, 2021, 118(50): e2102141118. [[html]](https://www.pnas.org/doi/abs/10.1073/pnas.2102141118)
+
 # 3.3 Higher-order Model
 
 **[1]** Neuhäuser L, Mellor A, Lambiotte R. "**Multibody interactions and nonlinear consensus dynamics on networked systems[J]**". Physical Review E, 2020, 101(3): 032310. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032310)
