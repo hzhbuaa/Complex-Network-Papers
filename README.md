@@ -34,6 +34,8 @@
 
 **[2]** Liu L, Wang X, Chen X, et al. "**Modeling confirmation bias and peer pressure in opinion dynamics[J]**". Frontiers in Physics, 2021, 9: 649852. [[html]](https://www.frontiersin.org/articles/10.3389/fphy.2021.649852/full)
 
+**[3]** Baumann F, Lorenz-Spreen P, Sokolov I M, et al. "**Modeling echo chambers and polarization dynamics in social networks[J]**". Physical Review Letters, 2020, 124(4): 048301. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.048301)
+
 # 3.3 Higher-order Model
 
 **[1]** Neuhäuser L, Mellor A, Lambiotte R. "**Multibody interactions and nonlinear consensus dynamics on networked systems[J]**". Physical Review E, 2020, 101(3): 032310. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032310)
