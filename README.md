@@ -42,6 +42,8 @@
 
 **[5]** Santos F P, Lelkes Y, Levin S A. "**Link recommendation algorithms and dynamics of polarization in online social networks[J]**". Proceedings of the National Academy of Sciences, 2021, 118(50): e2102141118. [[html]](https://www.pnas.org/doi/abs/10.1073/pnas.2102141118)
 
+**[6]** Liu J, Huang S, Aden N M, et al. "**Emergence of polarization in coevolving networks[J]**". Physical Review Letters, 2023, 130(3): 037401. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.037401)
+
 # 3.3 Higher-order Model
 
 **[1]** Neuhäuser L, Mellor A, Lambiotte R. "**Multibody interactions and nonlinear consensus dynamics on networked systems[J]**". Physical Review E, 2020, 101(3): 032310. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032310)
