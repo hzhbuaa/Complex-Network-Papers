@@ -8,15 +8,19 @@
 
 # 2 Contagion Dynamics
 
-# 2.1 Dynamics on Metapopulations
-
-**[1]** Soriano-Paños D, Lotero L, Arenas A, et al. "**Spreading processes in multiplex metapopulations containing different mobility networks[J]**". Physical Review X, 2018, 8(3): 031039. [[pdf]](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.8.031039)
-
-# 2.2 Empirical Study
+# 2.1 Empirical Study
 
 **[1]** Del Vicario M, Bessi A, Zollo F, et al. "**The spreading of misinformation online[J]**". Proceedings of the national academy of Sciences, 2016, 113(3): 554-559. [[html]](https://www.pnas.org/doi/abs/10.1073/pnas.1517441113)
 
-# 2.3 Higher-order Model
+# 2.2 Dynamics on Metapopulations
+
+**[1]** Soriano-Paños D, Lotero L, Arenas A, et al. "**Spreading processes in multiplex metapopulations containing different mobility networks[J]**". Physical Review X, 2018, 8(3): 031039. [[pdf]](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.8.031039)
+
+# 2.3 Dynamics on time-varying Networks
+
+**[1]** Zino L, Rizzo A, Porfiri M. "**Continuous-time discrete-distribution theory for activity-driven networks[J]**". Physical review letters, 2016, 117(22): 228302. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.228302)
+
+# 2.4 Higher-order Dynamics
 
 **[1]** Jhun B. "**Effective epidemic containment strategy in hypergraphs[J]**". Physical Review Research, 2021, 3(3): 033282. [[html]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033282)
 
