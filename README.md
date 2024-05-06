@@ -16,6 +16,10 @@
 
 **[1]** Del Vicario M, Bessi A, Zollo F, et al. "**The spreading of misinformation online[J]**". Proceedings of the national academy of Sciences, 2016, 113(3): 554-559. [[html]](https://www.pnas.org/doi/abs/10.1073/pnas.1517441113)
 
+# 2.3 Higher-order Model
+
+**[1]** Jhun B. "**Effective epidemic containment strategy in hypergraphs[J]**". Physical Review Research, 2021, 3(3): 033282. [[html]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033282)
+
 # 3 Opinion Dynamics
 
 # 3.1 Empirical Study
@@ -43,6 +47,8 @@
 **[5]** Santos F P, Lelkes Y, Levin S A. "**Link recommendation algorithms and dynamics of polarization in online social networks[J]**". Proceedings of the National Academy of Sciences, 2021, 118(50): e2102141118. [[html]](https://www.pnas.org/doi/abs/10.1073/pnas.2102141118)
 
 **[6]** Liu J, Huang S, Aden N M, et al. "**Emergence of polarization in coevolving networks[J]**". Physical Review Letters, 2023, 130(3): 037401. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.037401)
+
+**[7]** Baumann F, Lorenz-Spreen P, Sokolov I M, et al. "**Emergence of polarized ideological opinions in multidimensional topic spaces[J]**". Physical Review X, 2021, 11(1): 011012. [[html]](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.011012)
 
 # 3.3 Higher-order Model
 
