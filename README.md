@@ -42,6 +42,8 @@
 
 **[5]** Hohmann M, Devriendt K, Coscia M. "**Quantifying ideological polarization on a network using generalized Euclidean distance[J]**". Science Advances, 2023, 9(9): eabq2044. [[html]](https://www.science.org/doi/full/10.1126/sciadv.abq2044)
 
+**[6]** Johnson N F, Velásquez N, Restrepo N J, et al. "**The online competition between pro-and anti-vaccination views[J]**". Nature, 2020, 582(7811): 230-233. [[html]](https://www.nature.com/articles/s41586-020-2281-1)
+
 # 3.2 Pairwise Model
 
 **[1]** Chica M, Perc M, Santos F C. "**Success-driven opinion formation determines social tensions[J]**". iScience, 2024. [[pdf]](https://www.cell.com/iscience/pdf/S2589-0042(24)00475-9.pdf)
