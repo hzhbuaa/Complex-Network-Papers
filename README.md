@@ -60,6 +60,8 @@
 
 **[7]** Baumann F, Lorenz-Spreen P, Sokolov I M, et al. "**Emergence of polarized ideological opinions in multidimensional topic spaces[J]**". Physical Review X, 2021, 11(1): 011012. [[html]](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.011012)
 
+**[8]** Soriano-Paños D, Guo Q, Latora V, et al. "**Explosive transitions induced by interdependent contagion-consensus dynamics in multiplex networks[J]**". Physical Review E, 2019, 99(6): 062311. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062311)
+
 # 3.3 Higher-order Model
 
 **[1]** Neuhäuser L, Mellor A, Lambiotte R. "**Multibody interactions and nonlinear consensus dynamics on networked systems[J]**". Physical Review E, 2020, 101(3): 032310. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032310)
