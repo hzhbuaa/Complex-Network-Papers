@@ -22,6 +22,8 @@
 
 **[2]** Liu S, Perra N, Karsai M, et al. "**Controlling contagion processes in activity driven networks[J]**". Physical review letters, 2014, 112(11): 118702. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.118702)
 
+**[3]** Pozzana I, Sun K, Perra N. "**Epidemic spreading on activity-driven networks with attractiveness[J]**". Physical Review E, 2017, 96(4): 042310. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.042310)
+
 # 2.4 Higher-order Dynamics
 
 **[1]** Jhun B. "**Effective epidemic containment strategy in hypergraphs[J]**". Physical Review Research, 2021, 3(3): 033282. [[html]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033282)
