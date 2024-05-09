@@ -77,6 +77,8 @@
 
 **[8]** Soriano-Paños D, Guo Q, Latora V, et al. "**Explosive transitions induced by interdependent contagion-consensus dynamics in multiplex networks[J]**". Physical Review E, 2019, 99(6): 062311. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.062311)
 
+**[9]** Wang X, Sirianni A D, Tang S, et al. "**Public discourse and social network echo chambers driven by socio-cognitive biases[J]**". Physical Review X, 2020, 10(4): 041042. [[html]](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.041042)
+
 # 3.3 Higher-order Model
 
 **[1]** Neuhäuser L, Mellor A, Lambiotte R. "**Multibody interactions and nonlinear consensus dynamics on networked systems[J]**". Physical Review E, 2020, 101(3): 032310. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032310)
