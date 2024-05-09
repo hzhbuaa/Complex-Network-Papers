@@ -18,11 +18,15 @@
 
 **[1]** Del Vicario M, Bessi A, Zollo F, et al. "**The spreading of misinformation online[J]**". Proceedings of the national academy of Sciences, 2016, 113(3): 554-559. [[html]](https://www.pnas.org/doi/abs/10.1073/pnas.1517441113)
 
-# 2.3 Dynamics on Metapopulations
+# 2.3 Pairwise Dynamics
+
+**[1]** Gomez S, Diaz-Guilera A, Gomez-Gardenes J, et al. "**Diffusion dynamics on multiplex networks[J]**". Physical review letters, 2013, 110(2): 028701. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.028701)
+
+# 2.4 Dynamics on Metapopulations
 
 **[1]** Soriano-Paños D, Lotero L, Arenas A, et al. "**Spreading processes in multiplex metapopulations containing different mobility networks[J]**". Physical Review X, 2018, 8(3): 031039. [[pdf]](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.8.031039)
 
-# 2.4 Dynamics on time-varying Networks
+# 2.5 Dynamics on time-varying Networks
 
 **[1]** Zino L, Rizzo A, Porfiri M. "**Continuous-time discrete-distribution theory for activity-driven networks[J]**". Physical review letters, 2016, 117(22): 228302. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.228302)
 
@@ -30,7 +34,7 @@
 
 **[3]** Pozzana I, Sun K, Perra N. "**Epidemic spreading on activity-driven networks with attractiveness[J]**". Physical Review E, 2017, 96(4): 042310. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.042310)
 
-# 2.5 Higher-order Dynamics
+# 2.6 Higher-order Dynamics
 
 **[1]** Jhun B. "**Effective epidemic containment strategy in hypergraphs[J]**". Physical Review Research, 2021, 3(3): 033282. [[html]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033282)
 
