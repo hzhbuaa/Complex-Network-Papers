@@ -28,6 +28,8 @@
 
 **[1]** Jhun B. "**Effective epidemic containment strategy in hypergraphs[J]**". Physical Review Research, 2021, 3(3): 033282. [[html]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033282)
 
+**[2]** Iacopini I, Karsai M, Barrat A. "**The temporal dynamics of group interactions in higher-order social networks[J]**". arXiv preprint arXiv:2306.09967, 2023. [[html]](https://arxiv.org/abs/2306.09967)
+
 # 3 Opinion Dynamics
 
 # 3.1 Empirical Study
