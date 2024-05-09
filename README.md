@@ -1,5 +1,6 @@
 # Complex-network-papers
 # 1 Network Modeling
+
 # 1.1 Pairwise Network
 
 **[1]** De Domenico M, Solé-Ribalta A, Cozzo E, et al. "**Mathematical formulation of multilayer networks[J]**". Physical Review X, 2013, 3(4): 041022. [[html]](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.3.041022)
@@ -18,9 +19,11 @@
 
 **[1]** Del Vicario M, Bessi A, Zollo F, et al. "**The spreading of misinformation online[J]**". Proceedings of the national academy of Sciences, 2016, 113(3): 554-559. [[html]](https://www.pnas.org/doi/abs/10.1073/pnas.1517441113)
 
-# 2.3 Pairwise Dynamics
+# 2.3 Dynamics on Multiplex Networks
 
 **[1]** Gomez S, Diaz-Guilera A, Gomez-Gardenes J, et al. "**Diffusion dynamics on multiplex networks[J]**". Physical review letters, 2013, 110(2): 028701. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.028701)
+
+**[2]** Granell C, Gómez S, Arenas A. "**Dynamical interplay between awareness and epidemic spreading in multiplex networks[J]**". Physical review letters, 2013, 111(12): 128701. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.128701)
 
 # 2.4 Dynamics on Metapopulations
 
