@@ -91,4 +91,8 @@
 
 **[1]** Barrera-Lemarchand F, Balenzuela P, Bahrami B, et al. "**The wisdom of extremized crowds: Promoting erroneous divergent opinions increases collective accuracy[J]**". 2023. [[html]](https://osf.io/preprints/psyarxiv/wvfm3)
 
+# 5 Dataset
+
+**[1]** Twitter datasets [[html]](https://catalog.docnow.io/)
+
 
