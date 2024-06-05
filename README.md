@@ -43,6 +43,8 @@
 
 **[2]** Iacopini I, Karsai M, Barrat A. "**The temporal dynamics of group interactions in higher-order social networks[J]**". arXiv preprint arXiv:2306.09967, 2023. [[html]](https://arxiv.org/abs/2306.09967)
 
+**[3]** Lin Z, Han L, Feng M, et al. "**Higher-order non-Markovian social contagions in simplicial complexes[J]**". Communications Physics, 2024, 7(1): 175. [[html]](https://www.nature.com/articles/s42005-024-01666-x)
+
 # 3 Opinion Dynamics
 
 # 3.1 Empirical Study
