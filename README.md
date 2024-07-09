@@ -93,6 +93,10 @@
 
 **[1]** Barrera-Lemarchand F, Balenzuela P, Bahrami B, et al. "**The wisdom of extremized crowds: Promoting erroneous divergent opinions increases collective accuracy[J]**". 2023. [[html]](https://osf.io/preprints/psyarxiv/wvfm3)
 
+# 4.2 Collective Problem-Solving
+
+**[1]** Ueshima A, Jones M I, Christakis N A. "**Simple autonomous agents can enhance creative semantic discovery by human groups[J]**". Nature Communications, 2024, 15(1): 5212. [[html]](https://www.nature.com/articles/s41467-024-49528-y)
+
 # 5 Dataset
 
 **[1]** Twitter datasets [[html]](https://catalog.docnow.io/)
