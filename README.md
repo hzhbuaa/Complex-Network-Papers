@@ -15,6 +15,8 @@
 
 **[1]** Berner R, Gross T, Kuehn C, et al. "**Adaptive dynamical networks[J]**". Physics Reports, 2023, 1031: 1-59. [[html]](https://www.sciencedirect.com/science/article/pii/S0370157323002685)
 
+**[2]** Ferraz de Arruda G, Aleta A, Moreno Y. "**Contagion dynamics on higher-order networks[J]**". Nature Reviews Physics, 2024: 1-15. [[html]](https://www.nature.com/articles/s42254-024-00733-0)
+
 # 2.2 Empirical Study
 
 **[1]** Del Vicario M, Bessi A, Zollo F, et al. "**The spreading of misinformation online[J]**". Proceedings of the national academy of Sciences, 2016, 113(3): 554-559. [[html]](https://www.pnas.org/doi/abs/10.1073/pnas.1517441113)
