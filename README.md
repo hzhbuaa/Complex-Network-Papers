@@ -101,6 +101,8 @@
 
 **[1]** Barrera-Lemarchand F, Balenzuela P, Bahrami B, et al. "**The wisdom of extremized crowds: Promoting erroneous divergent opinions increases collective accuracy[J]**". 2023. [[html]](https://osf.io/preprints/psyarxiv/wvfm3)
 
+**[2]** Aminpour P, Gray S A, Singer A, et al. "**The diversity bonus in pooling local knowledge about complex problems[J]**". Proceedings of the National Academy of Sciences, 2021, 118(5): e2016887118. [[html]](https://www.pnas.org/doi/abs/10.1073/pnas.2016887118)
+
 # 4.2 Collective Problem-Solving
 
 **[1]** Lazer D, Friedman A. "**The network structure of exploration and exploitation[J]**". Administrative science quarterly, 2007, 52(4): 667-694. [[html]](https://journals.sagepub.com/doi/abs/10.2189/asqu.52.4.667)
