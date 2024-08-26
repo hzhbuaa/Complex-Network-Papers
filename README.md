@@ -39,6 +39,12 @@
 
 **[3]** Pozzana I, Sun K, Perra N. "**Epidemic spreading on activity-driven networks with attractiveness[J]**". Physical Review E, 2017, 96(4): 042310. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.042310)
 
+**[4]** Valdano E, Ferreri L, Poletto C, et al. "**Analytical computation of the epidemic threshold on temporal networks[J]**". Physical Review X, 2015, 5(2): 021005. [[html]](https://doi.org/10.1103/PhysRevX.5.021005)
+
+**[5]** Valdano E, Fiorentin M R, Poletto C, et al. "**Epidemic threshold in continuous-time evolving networks[J]**". Physical review letters, 2018, 120(6): 068302. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.068302)
+
+**[6]** Mancastroppa M, Burioni R, Colizza V, et al. Active and inactive quarantine in epidemic spreading on adaptive activity-driven networks[J]. Physical Review E, 2020, 102(2): 020301. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.020301)
+
 # 2.6 Higher-order Dynamics
 
 **[1]** Jhun B. "**Effective epidemic containment strategy in hypergraphs[J]**". Physical Review Research, 2021, 3(3): 033282. [[html]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033282)
