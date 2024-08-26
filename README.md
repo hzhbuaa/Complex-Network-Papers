@@ -103,7 +103,13 @@
 
 # 4.2 Collective Problem-Solving
 
-**[1]** Ueshima A, Jones M I, Christakis N A. "**Simple autonomous agents can enhance creative semantic discovery by human groups[J]**". Nature Communications, 2024, 15(1): 5212. [[html]](https://www.nature.com/articles/s41467-024-49528-y)
+**[1]** Lazer D, Friedman A. "**The network structure of exploration and exploitation[J]**". Administrative science quarterly, 2007, 52(4): 667-694. [[html]](https://journals.sagepub.com/doi/abs/10.2189/asqu.52.4.667)
+
+**[2]** Mason W, Watts D J. "**Collaborative learning in networks[J]**". Proceedings of the National Academy of Sciences, 2012, 109(3): 764-769. [[html]](https://www.pnas.org/doi/abs/10.1073/pnas.1110069108)
+
+**[3]** Barkoczi D, Galesic M. "**Social learning strategies modify the effect of network structure on group performance[J]**". Nature communications, 2016, 7(1): 13109. [[html]](https://www.nature.com/articles/ncomms13109)
+
+**[4]** Ueshima A, Jones M I, Christakis N A. "**Simple autonomous agents can enhance creative semantic discovery by human groups[J]**". Nature Communications, 2024, 15(1): 5212. [[html]](https://www.nature.com/articles/s41467-024-49528-y)
 
 # 5 Dataset
 
