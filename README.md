@@ -109,7 +109,9 @@
 
 **[3]** Barkoczi D, Galesic M. "**Social learning strategies modify the effect of network structure on group performance[J]**". Nature communications, 2016, 7(1): 13109. [[html]](https://www.nature.com/articles/ncomms13109)
 
-**[4]** Ueshima A, Jones M I, Christakis N A. "**Simple autonomous agents can enhance creative semantic discovery by human groups[J]**". Nature Communications, 2024, 15(1): 5212. [[html]](https://www.nature.com/articles/s41467-024-49528-y)
+**[4]** Gomez C J, Lazer D M J. "**Clustering knowledge and dispersing abilities enhances collective problem solving in a network[J]**". Nature communications, 2019, 10(1): 5146. [[html]](https://www.nature.com/articles/s41467-019-12650-3)
+
+**[5]** Ueshima A, Jones M I, Christakis N A. "**Simple autonomous agents can enhance creative semantic discovery by human groups[J]**". Nature Communications, 2024, 15(1): 5212. [[html]](https://www.nature.com/articles/s41467-024-49528-y)
 
 # 5 Dataset
 
