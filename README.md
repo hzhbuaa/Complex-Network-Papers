@@ -43,7 +43,7 @@
 
 **[5]** Valdano E, Fiorentin M R, Poletto C, et al. "**Epidemic threshold in continuous-time evolving networks[J]**". Physical review letters, 2018, 120(6): 068302. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.068302)
 
-**[6]** Mancastroppa M, Burioni R, Colizza V, et al. Active and inactive quarantine in epidemic spreading on adaptive activity-driven networks[J]. Physical Review E, 2020, 102(2): 020301. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.020301)
+**[6]** Mancastroppa M, Burioni R, Colizza V, et al. "**Active and inactive quarantine in epidemic spreading on adaptive activity-driven networks[J]**". Physical Review E, 2020, 102(2): 020301. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.020301)
 
 # 2.6 Higher-order Dynamics
 
