@@ -49,7 +49,7 @@
 
 **[1]** Jhun B. "**Effective epidemic containment strategy in hypergraphs[J]**". Physical Review Research, 2021, 3(3): 033282. [[html]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033282)
 
-**[2]** Iacopini I, Karsai M, Barrat A. "**The temporal dynamics of group interactions in higher-order social networks[J]**". arXiv preprint arXiv:2306.09967, 2023. [[html]](https://arxiv.org/abs/2306.09967)
+**[2]** Iacopini I, Karsai M, Barrat A. "**The temporal dynamics of group interactions in higher-order social networks[J]**". Nature Communications, 2024, 15(1): 7391. [[html]](https://www.nature.com/articles/s41467-024-50918-5)
 
 **[3]** Lin Z, Han L, Feng M, et al. "**Higher-order non-Markovian social contagions in simplicial complexes[J]**". Communications Physics, 2024, 7(1): 175. [[html]](https://www.nature.com/articles/s42005-024-01666-x)
 
