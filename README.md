@@ -53,6 +53,8 @@
 
 **[3]** Lin Z, Han L, Feng M, et al. "**Higher-order non-Markovian social contagions in simplicial complexes[J]**". Communications Physics, 2024, 7(1): 175. [[html]](https://www.nature.com/articles/s42005-024-01666-x)
 
+**[4]** Ferraz de Arruda G, Petri G, Rodriguez P M, et al. "**Multistability, intermittency, and hybrid transitions in social contagion models on hypergraphs[J]**". Nature communications, 2023, 14(1): 1375. [[html]](https://www.nature.com/articles/s41467-023-37118-3)
+
 # 3 Opinion Dynamics
 
 # 3.1 Empirical Study
