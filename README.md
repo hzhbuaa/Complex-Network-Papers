@@ -55,6 +55,8 @@
 
 **[4]** Ferraz de Arruda G, Petri G, Rodriguez P M, et al. "**Multistability, intermittency, and hybrid transitions in social contagion models on hypergraphs[J]**". Nature communications, 2023, 14(1): 1375. [[html]](https://www.nature.com/articles/s41467-023-37118-3)
 
+**[5]** Jhun B, Jo M, Kahng B. "**Simplicial SIS model in scale-free uniform hypergraph[J]**". Journal of Statistical Mechanics: Theory and Experiment, 2019, 2019(12): 123207. [[html]](https://iopscience.iop.org/article/10.1088/1742-5468/ab5367/meta)
+
 # 3 Opinion Dynamics
 
 # 3.1 Empirical Study
