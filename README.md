@@ -57,6 +57,8 @@
 
 **[5]** Jhun B, Jo M, Kahng B. "**Simplicial SIS model in scale-free uniform hypergraph[J]**". Journal of Statistical Mechanics: Theory and Experiment, 2019, 2019(12): 123207. [[html]](https://iopscience.iop.org/article/10.1088/1742-5468/ab5367/meta)
 
+**[6]** Cencetti G, Contreras D A, Mancastroppa M, et al. "**Distinguishing simple and complex contagion processes on networks[J]**". Physical Review Letters, 2023, 130(24): 247401. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.247401)
+
 # 3 Opinion Dynamics
 
 # 3.1 Empirical Study
