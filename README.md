@@ -47,17 +47,21 @@
 
 # 2.6 Higher-order Dynamics
 
-**[1]** Jhun B. "**Effective epidemic containment strategy in hypergraphs[J]**". Physical Review Research, 2021, 3(3): 033282. [[html]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033282)
+**[1]** Iacopini I, Petri G, Barrat A, et al. "**Simplicial models of social contagion[J]**". Nature communications, 2019, 10(1): 2485. [[html]](https://www.nature.com/articles/s41467-019-10431-6)
 
-**[2]** Iacopini I, Karsai M, Barrat A. "**The temporal dynamics of group interactions in higher-order social networks[J]**". Nature Communications, 2024, 15(1): 7391. [[html]](https://www.nature.com/articles/s41467-024-50918-5)
+**[2]** Jhun B. "**Effective epidemic containment strategy in hypergraphs[J]**". Physical Review Research, 2021, 3(3): 033282. [[html]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033282)
 
-**[3]** Lin Z, Han L, Feng M, et al. "**Higher-order non-Markovian social contagions in simplicial complexes[J]**". Communications Physics, 2024, 7(1): 175. [[html]](https://www.nature.com/articles/s42005-024-01666-x)
+**[3]** Iacopini I, Karsai M, Barrat A. "**The temporal dynamics of group interactions in higher-order social networks[J]**". Nature Communications, 2024, 15(1): 7391. [[html]](https://www.nature.com/articles/s41467-024-50918-5)
 
-**[4]** Ferraz de Arruda G, Petri G, Rodriguez P M, et al. "**Multistability, intermittency, and hybrid transitions in social contagion models on hypergraphs[J]**". Nature communications, 2023, 14(1): 1375. [[html]](https://www.nature.com/articles/s41467-023-37118-3)
+**[4]** Lin Z, Han L, Feng M, et al. "**Higher-order non-Markovian social contagions in simplicial complexes[J]**". Communications Physics, 2024, 7(1): 175. [[html]](https://www.nature.com/articles/s42005-024-01666-x)
 
-**[5]** Jhun B, Jo M, Kahng B. "**Simplicial SIS model in scale-free uniform hypergraph[J]**". Journal of Statistical Mechanics: Theory and Experiment, 2019, 2019(12): 123207. [[html]](https://iopscience.iop.org/article/10.1088/1742-5468/ab5367/meta)
+**[5]** Ferraz de Arruda G, Petri G, Rodriguez P M, et al. "**Multistability, intermittency, and hybrid transitions in social contagion models on hypergraphs[J]**". Nature communications, 2023, 14(1): 1375. [[html]](https://www.nature.com/articles/s41467-023-37118-3)
 
-**[6]** Cencetti G, Contreras D A, Mancastroppa M, et al. "**Distinguishing simple and complex contagion processes on networks[J]**". Physical Review Letters, 2023, 130(24): 247401. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.247401)
+**[6]** Jhun B, Jo M, Kahng B. "**Simplicial SIS model in scale-free uniform hypergraph[J]**". Journal of Statistical Mechanics: Theory and Experiment, 2019, 2019(12): 123207. [[html]](https://iopscience.iop.org/article/10.1088/1742-5468/ab5367/meta)
+
+**[7]** Cencetti G, Contreras D A, Mancastroppa M, et al. "**Distinguishing simple and complex contagion processes on networks[J]**". Physical Review Letters, 2023, 130(24): 247401. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.247401)
+
+
 
 # 3 Opinion Dynamics
 
