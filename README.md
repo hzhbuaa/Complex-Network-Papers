@@ -21,17 +21,15 @@
 
 **[1]** Del Vicario M, Bessi A, Zollo F, et al. "**The spreading of misinformation online[J]**". Proceedings of the national academy of Sciences, 2016, 113(3): 554-559. [[html]](https://www.pnas.org/doi/abs/10.1073/pnas.1517441113)
 
-# 2.3 Dynamics on Multiplex Networks
+# 2.3 Dynamics on Multiplex Networks and Metapopulations
 
 **[1]** Gomez S, Diaz-Guilera A, Gomez-Gardenes J, et al. "**Diffusion dynamics on multiplex networks[J]**". Physical review letters, 2013, 110(2): 028701. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.028701)
 
 **[2]** Granell C, Gómez S, Arenas A. "**Dynamical interplay between awareness and epidemic spreading in multiplex networks[J]**". Physical review letters, 2013, 111(12): 128701. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.128701)
 
-# 2.4 Dynamics on Metapopulations
+**[3]** Soriano-Paños D, Lotero L, Arenas A, et al. "**Spreading processes in multiplex metapopulations containing different mobility networks[J]**". Physical Review X, 2018, 8(3): 031039. [[pdf]](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.8.031039)
 
-**[1]** Soriano-Paños D, Lotero L, Arenas A, et al. "**Spreading processes in multiplex metapopulations containing different mobility networks[J]**". Physical Review X, 2018, 8(3): 031039. [[pdf]](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.8.031039)
-
-# 2.5 Dynamics on time-varying Networks
+# 2.4 Dynamics on time-varying Networks
 
 **[1]** Zino L, Rizzo A, Porfiri M. "**Continuous-time discrete-distribution theory for activity-driven networks[J]**". Physical review letters, 2016, 117(22): 228302. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.228302)
 
@@ -45,7 +43,7 @@
 
 **[6]** Mancastroppa M, Burioni R, Colizza V, et al. "**Active and inactive quarantine in epidemic spreading on adaptive activity-driven networks[J]**". Physical Review E, 2020, 102(2): 020301. [[html]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.020301)
 
-# 2.6 Higher-order Dynamics
+# 2.5 Higher-order Dynamics
 
 **[1]** Iacopini I, Petri G, Barrat A, et al. "**Simplicial models of social contagion[J]**". Nature communications, 2019, 10(1): 2485. [[html]](https://www.nature.com/articles/s41467-019-10431-6)
 
