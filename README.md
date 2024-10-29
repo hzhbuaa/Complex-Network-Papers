@@ -29,6 +29,8 @@
 
 **[3]** Soriano-Paños D, Lotero L, Arenas A, et al. "**Spreading processes in multiplex metapopulations containing different mobility networks[J]**". Physical Review X, 2018, 8(3): 031039. [[pdf]](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.8.031039)
 
+**[4]** Patwardhan S, Rao V K, Fortunato S, et al. "**Epidemic spreading in group-structured populations[J]**". Physical Review X, 2023, 13(4): 041054. [[html]](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041054)
+
 # 2.4 Dynamics on time-varying Networks
 
 **[1]** Zino L, Rizzo A, Porfiri M. "**Continuous-time discrete-distribution theory for activity-driven networks[J]**". Physical review letters, 2016, 117(22): 228302. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.228302)
@@ -60,6 +62,8 @@
 **[7]** Cencetti G, Contreras D A, Mancastroppa M, et al. "**Distinguishing simple and complex contagion processes on networks[J]**". Physical Review Letters, 2023, 130(24): 247401. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.247401)
 
 **[8]** Landry N W, Restrepo J G. "**The effect of heterogeneity on hypergraph contagion models[J]**". Chaos: An Interdisciplinary Journal of Nonlinear Science, 2020, 30(10). [[html]](https://pubs.aip.org/aip/cha/article/30/10/103117/286731)
+
+**[9]** Chen Y, Gel Y R, Marathe M V, et al. "**A simplicial epidemic model for COVID-19 spread analysis[J]**". Proceedings of the National Academy of Sciences, 2024, 121(1): e2313171120. [[html]](https://www.pnas.org/doi/abs/10.1073/pnas.2313171120)
 
 
 
