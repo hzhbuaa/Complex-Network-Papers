@@ -31,6 +31,8 @@
 
 **[4]** Patwardhan S, Rao V K, Fortunato S, et al. "**Epidemic spreading in group-structured populations[J]**". Physical Review X, 2023, 13(4): 041054. [[html]](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041054)
 
+**[5]** Chen J, Zhang Y, Xu Y, et al. "**An epidemic spread model with nonlinear recovery rates on meta-population networks[J]**". Nonlinear Dynamics, 2024: 1-15. [[html]](https://link.springer.com/article/10.1007/s11071-024-10388-2)
+
 # 2.4 Dynamics on time-varying Networks
 
 **[1]** Zino L, Rizzo A, Porfiri M. "**Continuous-time discrete-distribution theory for activity-driven networks[J]**". Physical review letters, 2016, 117(22): 228302. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.228302)
