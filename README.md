@@ -61,6 +61,8 @@
 
 **[7]** Cencetti G, Contreras D A, Mancastroppa M, et al. "**Distinguishing simple and complex contagion processes on networks[J]**". Physical Review Letters, 2023, 130(24): 247401. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.247401)
 
+**[8]** Landry N W, Restrepo J G. "**The effect of heterogeneity on hypergraph contagion models[J]**". Chaos: An Interdisciplinary Journal of Nonlinear Science, 2020, 30(10). [[html]](https://pubs.aip.org/aip/cha/article/30/10/103117/286731)
+
 
 
 # 3 Opinion Dynamics
