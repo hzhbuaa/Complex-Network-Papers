@@ -23,19 +23,23 @@
 
 # 2.3 Dynamics on Multiplex Networks and Metapopulations
 
-**[1]** Gomez S, Diaz-Guilera A, Gomez-Gardenes J, et al. "**Diffusion dynamics on multiplex networks[J]**". Physical review letters, 2013, 110(2): 028701. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.028701)
+**[1]** Colizza V, Pastor-Satorras R, Vespignani A. "**Reaction–diffusion processes and metapopulation models in heterogeneous networks[J]**". Nature Physics, 2007, 3(4): 276-282. [[html]](https://www.nature.com/articles/nphys560)
 
-**[2]** Granell C, Gómez S, Arenas A. "**Dynamical interplay between awareness and epidemic spreading in multiplex networks[J]**". Physical review letters, 2013, 111(12): 128701. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.128701)
+**[2]** Colizza V, Vespignani A. "**Invasion threshold in heterogeneous metapopulation networks[J]**". Physical review letters, 2007, 99(14): 148701. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.99.148701)
 
-**[3]** Soriano-Paños D, Lotero L, Arenas A, et al. "**Spreading processes in multiplex metapopulations containing different mobility networks[J]**". Physical Review X, 2018, 8(3): 031039. [[pdf]](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.8.031039)
+**[3]** Gomez S, Diaz-Guilera A, Gomez-Gardenes J, et al. "**Diffusion dynamics on multiplex networks[J]**". Physical review letters, 2013, 110(2): 028701. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.028701)
 
-**[4]** Patwardhan S, Rao V K, Fortunato S, et al. "**Epidemic spreading in group-structured populations[J]**". Physical Review X, 2023, 13(4): 041054. [[html]](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041054)
+**[4]** Granell C, Gómez S, Arenas A. "**Dynamical interplay between awareness and epidemic spreading in multiplex networks[J]**". Physical review letters, 2013, 111(12): 128701. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.128701)
 
-**[5]** Chen J, Zhang Y, Xu Y, et al. "**An epidemic spread model with nonlinear recovery rates on meta-population networks[J]**". Nonlinear Dynamics, 2024: 1-15. [[html]](https://link.springer.com/article/10.1007/s11071-024-10388-2)
+**[5]** Soriano-Paños D, Lotero L, Arenas A, et al. "**Spreading processes in multiplex metapopulations containing different mobility networks[J]**". Physical Review X, 2018, 8(3): 031039. [[pdf]](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.8.031039)
 
-**[6]** Davis J T, Perra N, Zhang Q, et al. "**Phase transitions in information spreading on structured populations[J]**". Nature physics, 2020, 16(5): 590-596. [[html]](https://www.nature.com/articles/s41567-020-0810-3)
+**[6]** Patwardhan S, Rao V K, Fortunato S, et al. "**Epidemic spreading in group-structured populations[J]**". Physical Review X, 2023, 13(4): 041054. [[html]](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041054)
 
-**[7]** Vespignani A. "**Modelling dynamical processes in complex socio-technical systems[J]**". Nature physics, 2012, 8(1): 32-39. [[html]](https://www.nature.com/articles/nphys2160)
+**[7]** Chen J, Zhang Y, Xu Y, et al. "**An epidemic spread model with nonlinear recovery rates on meta-population networks[J]**". Nonlinear Dynamics, 2024: 1-15. [[html]](https://link.springer.com/article/10.1007/s11071-024-10388-2)
+
+**[8]** Davis J T, Perra N, Zhang Q, et al. "**Phase transitions in information spreading on structured populations[J]**". Nature physics, 2020, 16(5): 590-596. [[html]](https://www.nature.com/articles/s41567-020-0810-3)
+
+**[9]** Vespignani A. "**Modelling dynamical processes in complex socio-technical systems[J]**". Nature physics, 2012, 8(1): 32-39. [[html]](https://www.nature.com/articles/nphys2160)
 
 # 2.4 Dynamics on time-varying Networks
 
