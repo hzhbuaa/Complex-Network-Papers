@@ -1,5 +1,5 @@
-# Complex-network-papers
-# 1 Network Modeling
+# Social Complex System | Complex network | Collective Intelligence Papers
+# 1 Network Modeling and Analysis
 
 # 1.1 Pairwise Network
 
