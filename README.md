@@ -3,11 +3,15 @@
 
 # 1.1 Pairwise Network
 
-**[1]** De Domenico M, Solé-Ribalta A, Cozzo E, et al. "**Mathematical formulation of multilayer networks[J]**". Physical Review X, 2013, 3(4): 041022. [[html]](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.3.041022)
-
 # 1.2 Higher-order Network
 
 **[1]** Han Z, Liu L, Wang X, et al. "**Probabilistic activity driven model of temporal simplicial networks and its application on higher-order dynamics[J]**". Chaos: An Interdisciplinary Journal of Nonlinear Science, 2024, 34(2). [[html]](https://pubs.aip.org/aip/cha/article/34/2/023137/3267337)
+
+**[2]** Di Gaetano L, Battiston F, Starnini M. "**Percolation and topological properties of temporal higher-order networks[J]**". Physical Review Letters, 2024, 132(3): 037401. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.037401)
+
+# 1.3 Multiplex Networks and Metapopulations Networks
+
+**[1]** De Domenico M, Solé-Ribalta A, Cozzo E, et al. "**Mathematical formulation of multilayer networks[J]**". Physical Review X, 2013, 3(4): 041022. [[html]](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.3.041022)
 
 # 2 Contagion Dynamics
 
