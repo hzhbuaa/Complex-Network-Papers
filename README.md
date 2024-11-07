@@ -143,10 +143,12 @@
 
 **[5]** Ueshima A, Jones M I, Christakis N A. "**Simple autonomous agents can enhance creative semantic discovery by human groups[J]**". Nature Communications, 2024, 15(1): 5212. [[html]](https://www.nature.com/articles/s41467-024-49528-y)
 
-# 5 Dataset
+# 5 Dataset and Package
 
 **[1]** Twitter datasets [[html]](https://catalog.docnow.io/)
 
 **[2]** SocioPatterns project [[html]](http://www.sociopatterns.org/datasets/)
+
+**[3]** HGX [[html]](https://github.com/HGX-Team/hypergraphx)
 
 
