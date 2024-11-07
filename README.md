@@ -147,4 +147,6 @@
 
 **[1]** Twitter datasets [[html]](https://catalog.docnow.io/)
 
+**[2]** SocioPatterns project [[html]](http://www.sociopatterns.org/datasets/)
+
 
