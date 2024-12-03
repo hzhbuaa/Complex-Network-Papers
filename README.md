@@ -136,6 +136,8 @@
 
 **[2]** Neuhäuser L, Lambiotte R, Schaub M T. "**Consensus dynamics on temporal hypergraphs[J]**". Physical Review E, 2021, 104(6): 064305. [[pdf]](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.104.064305)
 
+**[3]** Schawe H, Hernández L. "**Higher order interactions destroy phase transitions in deffuant opinion dynamics model[J]**". Communications Physics, 2022, 5(1): 32. [[html]](https://www.nature.com/articles/s42005-022-00807-4)
+
 # 4 Collective Intelligence
 
 # 4.1 Wisdom of Crowds
