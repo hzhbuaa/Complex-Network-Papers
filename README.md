@@ -21,7 +21,7 @@
 
 **[2]** Ferraz de Arruda G, Aleta A, Moreno Y. "**Contagion dynamics on higher-order networks[J]**". Nature Reviews Physics, 2024: 1-15. [[html]](https://www.nature.com/articles/s42254-024-00733-0)
 
-**[3]** de Arruda G F, Rodrigues F A, Moreno Y. Fundamentals of spreading processes in single and multilayer complex networks[J]. Physics Reports, 2018, 756: 1-59. [[html]](https://www.sciencedirect.com/science/article/pii/S0370157318301492)
+**[3]** de Arruda G F, Rodrigues F A, Moreno Y. “**Fundamentals of spreading processes in single and multilayer complex networks[J]**”. Physics Reports, 2018, 756: 1-59. [[html]](https://www.sciencedirect.com/science/article/pii/S0370157318301492)
 
 # 2.2 Empirical Study
 
