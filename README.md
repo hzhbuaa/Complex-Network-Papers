@@ -21,6 +21,8 @@
 
 **[2]** Ferraz de Arruda G, Aleta A, Moreno Y. "**Contagion dynamics on higher-order networks[J]**". Nature Reviews Physics, 2024: 1-15. [[html]](https://www.nature.com/articles/s42254-024-00733-0)
 
+**[3]** de Arruda G F, Rodrigues F A, Moreno Y. Fundamentals of spreading processes in single and multilayer complex networks[J]. Physics Reports, 2018, 756: 1-59. [[html]](https://www.sciencedirect.com/science/article/pii/S0370157318301492)
+
 # 2.2 Empirical Study
 
 **[1]** Del Vicario M, Bessi A, Zollo F, et al. "**The spreading of misinformation online[J]**". Proceedings of the national academy of Sciences, 2016, 113(3): 554-559. [[html]](https://www.pnas.org/doi/abs/10.1073/pnas.1517441113)
@@ -79,6 +81,17 @@
 
 **[9]** Chen Y, Gel Y R, Marathe M V, et al. "**A simplicial epidemic model for COVID-19 spread analysis[J]**". Proceedings of the National Academy of Sciences, 2024, 121(1): e2313171120. [[html]](https://www.pnas.org/doi/abs/10.1073/pnas.2313171120)
 
+**[10]** de Arruda G F, Petri G, Moreno Y. "**Social contagion models on hypergraphs[J]**". Physical Review Research, 2020, 2(2): 023032. [[html]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023032)
+
+**[11]** Burgio G, Gómez S, Arenas A. "**Triadic approximation reveals the role of interaction overlap on the spread of complex contagions on higher-order networks[J]**". Physical Review Letters, 2024, 132(7): 077401. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.077401)
+
+**[12]** Kim J H, Goh K I. "**Higher-Order Components Dictate Higher-Order Contagion Dynamics in Hypergraphs[J]**". Physical review letters, 2024, 132(8): 087401. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.087401)
+
+**[13]** Ferraz de Arruda G, Tizzani M, Moreno Y. "**Phase transitions and stability of dynamical processes on hypergraphs[J]**". Communications Physics, 2021, 4(1): 24. [[html]](https://www.nature.com/articles/s42005-021-00525-3)
+
+**[14]** St-Onge G, Sun H, Allard A, et al. "**Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks[J]**". Physical review letters, 2021, 127(15): 158301. [[html]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.158301)
+
+**[15]** St-Onge G, Iacopini I, Latora V, et al. "**Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs[J]**". Communications Physics, 2022, 5(1): 25. [[html]](https://www.nature.com/articles/s42005-021-00788-w)
 
 
 # 3 Opinion Dynamics
