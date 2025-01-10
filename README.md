@@ -93,6 +93,8 @@
 
 **[15]** St-Onge G, Iacopini I, Latora V, et al. "**Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs[J]**". Communications Physics, 2022, 5(1): 25. [[html]](https://www.nature.com/articles/s42005-021-00788-w)
 
+**[16]** Latora V, Malizia F, Lamata-Otin S, et al. "**Hyperedge overlap drives explosive transitions in systems with higher-order interactions[J]**". Nature Communications, 2024. [[html]](https://www.nature.com/articles/s41467-024-55506-1)
+
 
 # 3 Opinion Dynamics
 
