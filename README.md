@@ -168,4 +168,6 @@
 
 **[3]** HGX [[html]](https://github.com/HGX-Team/hypergraphx)
 
+**[4]** SNAP [[html]](https://snap.stanford.edu/data/)
+
 
